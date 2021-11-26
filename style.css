@@ -139,14 +139,14 @@ body {
 	gap: 1em;
 }
 
-.card-details h2 {
+.card-details h1 {
 	color: var(--white);
 	width: max-content;
 	font-weight: 600;
 	font-size: 1.8rem;
 }
 
-.card-details h2:hover {
+.card-details h1:hover {
 	color: var(--cyan);
 	cursor: pointer;
 }
