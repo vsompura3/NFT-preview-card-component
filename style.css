@@ -57,6 +57,7 @@ img,
 picture {
 	max-width: 100%;
 	display: block;
+	height: auto;
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -86,7 +87,7 @@ select {
 body {
 	font-family: "Outfit", Arial, Helvetica, sans-serif;
 	font-size: 1.125rem;
-	font-weight: 400;
+	font-weight: 300;
 	background-color: var(--very-dark-blue-1);
 	display: grid;
 	place-content: center;
@@ -141,6 +142,8 @@ body {
 .card-details h2 {
 	color: var(--white);
 	width: max-content;
+	font-weight: 600;
+	font-size: 1.8rem;
 }
 
 .card-details h2:hover {
@@ -154,6 +157,7 @@ body {
 
 .card-details .description p:first-of-type {
 	color: var(--cyan);
+	font-weight: 400;
 }
 
 .card-details .description img:last-of-type {
