@@ -171,7 +171,7 @@ body {
 }
 
 .card-details .avatar {
-	width: 2.75rem;
+	width: 2rem;
 	border: 1px solid var(--white);
 	border-radius: 50%;
 }
