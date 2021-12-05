@@ -101,6 +101,7 @@ body {
 	gap: var(--gap, 0.75rem);
 }
 
+/* Base Styles */
 .card {
 	background-color: var(--very-dark-blue-2);
 	color: var(--soft-blue);
